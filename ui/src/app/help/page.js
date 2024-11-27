@@ -40,7 +40,7 @@ const Help = () => {
           </h2>
           <p className="text-sm text-gray-600">
             If you need further assistance, please contact our support team at
-            support@qualinsight.ai.
+            prathamsingh.rao@gmail.com.
           </p>
         </div>
       </div>
