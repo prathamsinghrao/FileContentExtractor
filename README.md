@@ -1,4 +1,4 @@
-```markdown
+
 # FileContentExtractor
 
 **FileContentExtractor** is a .NET Core Web API designed to extract content from various file formats including PDF, DOCX, PPTX, HTML, JPG, PNG, JPEG, and TXT. The API provides easy integration, structured data output, and is built with scalability in mind.
@@ -151,8 +151,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Aspose** and **Open XML SDK** for DOCX and PPTX parsing.
 - Thanks to all contributors for making this project better!
 
----
-
-**FileContentExtractor** is designed to be modular and easily extendable. If you have any suggestions or encounter any issues, feel free to open an issue or contribute to the project.
-```
 
