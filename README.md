@@ -1,5 +1,3 @@
-Certainly! Below is the complete **README.md** file that includes the project overview, setup instructions, API endpoints, usage examples, and more, all in one document.
-
 ```markdown
 # FileContentExtractor
 
@@ -158,10 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **FileContentExtractor** is designed to be modular and easily extendable. If you have any suggestions or encounter any issues, feel free to open an issue or contribute to the project.
 ```
 
-### How to Use:
-1. **Copy** the content above.
-2. **Create a file** named `README.md` in your GitHub repository.
-3. **Paste** the content into the `README.md` file.
-4. Commit and push the file to your repository.
-
-This **README.md** provides all the necessary information for setting up, using, and contributing to the **FileContentExtractor** API, including detailed API documentation and usage examples.
